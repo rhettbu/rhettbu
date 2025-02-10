@@ -4,7 +4,6 @@
 ![](https://img.shields.io/badge/Network-Solana-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Polygon-informational?style=flat&logo=polygon&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Avalanche-informational?style=flat&logo=avalanche&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Abstract-informational?style=flat&logo=abstract&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Rust-information?style=flat&logo=rust&logoColor=white&color=3bac3a)
